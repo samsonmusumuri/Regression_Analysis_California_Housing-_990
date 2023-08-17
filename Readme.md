@@ -15,9 +15,11 @@ The dataset utilised in the second chapter of Aurélien Géron's recent book, 'H
 <a name="files"></a>
 
 ## File Descriptions 
+
 ### 1. 'data' Folder
 **Housing.csv** - The data pertains to the houses found in a given California district and some summary stats about them based on the 1990 census databr/>
-<a name="introduction"></a>
+
+**housing.ipynb** - This notebook consits of the entire regression process.
 
 
 ## License 
